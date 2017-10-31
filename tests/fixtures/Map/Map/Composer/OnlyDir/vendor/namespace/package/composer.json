@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    },
+    "files": [
+      "SampleClass2.php"
+    ]
+  }
+}

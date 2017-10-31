@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": ""
+    },
+    "exclude-from-classmap": [
+      "/exclude1/",
+      "/exclude2*",
+      "/exclude3**"
+    ]
+  }
+}
