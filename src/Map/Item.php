@@ -706,11 +706,7 @@ class Item implements ItemInterface
                 break;
             }
         }
-        /*foreach ($tokens as $token) {
-            $token[0] = token_name($token[0]);
-            var_dump($token);
-        }
-        exit;*/
+
         // Search for T_STRING and T_NS_SEPARATOR tokens follows after T_USE
         $cnt = count($tokens);
         $imports = [];

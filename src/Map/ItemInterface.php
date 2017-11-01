@@ -202,7 +202,7 @@ interface ItemInterface
     /**
      * Means that file with current entity may be included without the risk
      * to take any errors (if some of dependencies is not exists (e.g. parent class))
-     * or stopping execution script (if there is "exit()" before or after class body).
+     * or stopping execution script (if there is "exit()/die()" before or after class body).
      * This should not checking any possible errors, than may occurs during
      * usage of included file - its only about possibility to include it.
      *
