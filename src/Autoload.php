@@ -20,7 +20,7 @@ declare(strict_types=1);
 namespace Movephp\ClassLoader;
 
 use Movephp\ClassLoader\Map;
-use Psr\Cache, Symfony\Component\Cache\Adapter\FilesystemAdapter;
+use Psr\Cache;
 
 /**
  * Class Autoload
