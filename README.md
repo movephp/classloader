@@ -89,7 +89,7 @@
 возможных коллизий третьим аргументом в конструктор класса 
 `Autoload` можно передать пространство имён для ключа CacheItem: 
 `$autoload = new Autoload($map, $cachePool, 'mynamespace')` - в 
-этом случае для получаения `CacheItem` будет использован ключ
+этом случае для получения `CacheItem` будет использован ключ
 `mynamespace_movephp_classloader`.
 
 ## Обновление карты
