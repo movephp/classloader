@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/movephp/callback-container.svg?branch=master)](https://travis-ci.org/movephp/callback-container)
+[![Build Status](https://travis-ci.org/movephp/classloader.svg?branch=master)](https://travis-ci.org/movephp/classloader)
 [![Coverage Status](https://coveralls.io/repos/github/movephp/classloader/badge.svg?branch=master)](https://coveralls.io/github/movephp/classloader?branch=master)
 
 # Расширенный Autoloader для фреймворка Movephp
