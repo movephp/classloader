@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/movephp/callback-container.svg?branch=master)](https://travis-ci.org/movephp/callback-container)
+
 # Расширенный Autoloader для фреймворка Movephp
 
 Это механизм для создания карты классов приложения.
